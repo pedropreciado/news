@@ -1,0 +1,687 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NewsIndex renders correctly 1`] = `
+ShallowWrapper {
+  "length": 1,
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <NewsIndex
+    fetchNews={[Function]}
+    news={
+      Array [
+        Object {
+          "title": "article-1",
+        },
+        Object {
+          "title": "article-2",
+        },
+        Object {
+          "title": "article-3",
+        },
+        Object {
+          "title": "article-4",
+        },
+        Object {
+          "title": "article-5",
+        },
+        Object {
+          "title": "article-6",
+        },
+        Object {
+          "title": "article-7",
+        },
+        Object {
+          "title": "article-8",
+        },
+        Object {
+          "title": "article-9",
+        },
+        Object {
+          "title": "article-10",
+        },
+        Object {
+          "title": "article-11",
+        },
+        Object {
+          "title": "article-12",
+        },
+        Object {
+          "title": "article-13",
+        },
+        Object {
+          "title": "article-14",
+        },
+        Object {
+          "title": "article-15",
+        },
+        Object {
+          "title": "article-16",
+        },
+        Object {
+          "title": "article-17",
+        },
+        Object {
+          "title": "article-18",
+        },
+        Object {
+          "title": "article-19",
+        },
+        Object {
+          "title": "article-20",
+        },
+      ]
+    }
+  />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": <div
+        id="news-index"
+      >
+        <NewsIndexItem
+          article={
+            Object {
+              "title": "article-1",
+            }
+          }
+        />
+        <NewsIndexItem
+          article={
+            Object {
+              "title": "article-2",
+            }
+          }
+        />
+        <NewsIndexItem
+          article={
+            Object {
+              "title": "article-3",
+            }
+          }
+        />
+        <NewsIndexItem
+          article={
+            Object {
+              "title": "article-4",
+            }
+          }
+        />
+        <NewsIndexItem
+          article={
+            Object {
+              "title": "article-5",
+            }
+          }
+        />
+        <NewsIndexItem
+          article={
+            Object {
+              "title": "article-6",
+            }
+          }
+        />
+        <NewsIndexItem
+          article={
+            Object {
+              "title": "article-7",
+            }
+          }
+        />
+        <NewsIndexItem
+          article={
+            Object {
+              "title": "article-8",
+            }
+          }
+        />
+        <NewsIndexItem
+          article={
+            Object {
+              "title": "article-9",
+            }
+          }
+        />
+        <NewsIndexItem
+          article={
+            Object {
+              "title": "article-10",
+            }
+          }
+        />
+      </div>,
+      "id": "news-container",
+    },
+    "ref": null,
+    "rendered": Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": Array [
+          <NewsIndexItem
+            article={
+              Object {
+                "title": "article-1",
+              }
+            }
+          />,
+          <NewsIndexItem
+            article={
+              Object {
+                "title": "article-2",
+              }
+            }
+          />,
+          <NewsIndexItem
+            article={
+              Object {
+                "title": "article-3",
+              }
+            }
+          />,
+          <NewsIndexItem
+            article={
+              Object {
+                "title": "article-4",
+              }
+            }
+          />,
+          <NewsIndexItem
+            article={
+              Object {
+                "title": "article-5",
+              }
+            }
+          />,
+          <NewsIndexItem
+            article={
+              Object {
+                "title": "article-6",
+              }
+            }
+          />,
+          <NewsIndexItem
+            article={
+              Object {
+                "title": "article-7",
+              }
+            }
+          />,
+          <NewsIndexItem
+            article={
+              Object {
+                "title": "article-8",
+              }
+            }
+          />,
+          <NewsIndexItem
+            article={
+              Object {
+                "title": "article-9",
+              }
+            }
+          />,
+          <NewsIndexItem
+            article={
+              Object {
+                "title": "article-10",
+              }
+            }
+          />,
+        ],
+        "id": "news-index",
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": "0",
+          "nodeType": "class",
+          "props": Object {
+            "article": Object {
+              "title": "article-1",
+            },
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "1",
+          "nodeType": "class",
+          "props": Object {
+            "article": Object {
+              "title": "article-2",
+            },
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "2",
+          "nodeType": "class",
+          "props": Object {
+            "article": Object {
+              "title": "article-3",
+            },
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "3",
+          "nodeType": "class",
+          "props": Object {
+            "article": Object {
+              "title": "article-4",
+            },
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "4",
+          "nodeType": "class",
+          "props": Object {
+            "article": Object {
+              "title": "article-5",
+            },
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "5",
+          "nodeType": "class",
+          "props": Object {
+            "article": Object {
+              "title": "article-6",
+            },
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "6",
+          "nodeType": "class",
+          "props": Object {
+            "article": Object {
+              "title": "article-7",
+            },
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "7",
+          "nodeType": "class",
+          "props": Object {
+            "article": Object {
+              "title": "article-8",
+            },
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "8",
+          "nodeType": "class",
+          "props": Object {
+            "article": Object {
+              "title": "article-9",
+            },
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "9",
+          "nodeType": "class",
+          "props": Object {
+            "article": Object {
+              "title": "article-10",
+            },
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+      ],
+      "type": "div",
+    },
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": <div
+          id="news-index"
+        >
+          <NewsIndexItem
+            article={
+              Object {
+                "title": "article-1",
+              }
+            }
+          />
+          <NewsIndexItem
+            article={
+              Object {
+                "title": "article-2",
+              }
+            }
+          />
+          <NewsIndexItem
+            article={
+              Object {
+                "title": "article-3",
+              }
+            }
+          />
+          <NewsIndexItem
+            article={
+              Object {
+                "title": "article-4",
+              }
+            }
+          />
+          <NewsIndexItem
+            article={
+              Object {
+                "title": "article-5",
+              }
+            }
+          />
+          <NewsIndexItem
+            article={
+              Object {
+                "title": "article-6",
+              }
+            }
+          />
+          <NewsIndexItem
+            article={
+              Object {
+                "title": "article-7",
+              }
+            }
+          />
+          <NewsIndexItem
+            article={
+              Object {
+                "title": "article-8",
+              }
+            }
+          />
+          <NewsIndexItem
+            article={
+              Object {
+                "title": "article-9",
+              }
+            }
+          />
+          <NewsIndexItem
+            article={
+              Object {
+                "title": "article-10",
+              }
+            }
+          />
+        </div>,
+        "id": "news-container",
+      },
+      "ref": null,
+      "rendered": Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            <NewsIndexItem
+              article={
+                Object {
+                  "title": "article-1",
+                }
+              }
+            />,
+            <NewsIndexItem
+              article={
+                Object {
+                  "title": "article-2",
+                }
+              }
+            />,
+            <NewsIndexItem
+              article={
+                Object {
+                  "title": "article-3",
+                }
+              }
+            />,
+            <NewsIndexItem
+              article={
+                Object {
+                  "title": "article-4",
+                }
+              }
+            />,
+            <NewsIndexItem
+              article={
+                Object {
+                  "title": "article-5",
+                }
+              }
+            />,
+            <NewsIndexItem
+              article={
+                Object {
+                  "title": "article-6",
+                }
+              }
+            />,
+            <NewsIndexItem
+              article={
+                Object {
+                  "title": "article-7",
+                }
+              }
+            />,
+            <NewsIndexItem
+              article={
+                Object {
+                  "title": "article-8",
+                }
+              }
+            />,
+            <NewsIndexItem
+              article={
+                Object {
+                  "title": "article-9",
+                }
+              }
+            />,
+            <NewsIndexItem
+              article={
+                Object {
+                  "title": "article-10",
+                }
+              }
+            />,
+          ],
+          "id": "news-index",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": "0",
+            "nodeType": "class",
+            "props": Object {
+              "article": Object {
+                "title": "article-1",
+              },
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": "1",
+            "nodeType": "class",
+            "props": Object {
+              "article": Object {
+                "title": "article-2",
+              },
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": "2",
+            "nodeType": "class",
+            "props": Object {
+              "article": Object {
+                "title": "article-3",
+              },
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": "3",
+            "nodeType": "class",
+            "props": Object {
+              "article": Object {
+                "title": "article-4",
+              },
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": "4",
+            "nodeType": "class",
+            "props": Object {
+              "article": Object {
+                "title": "article-5",
+              },
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": "5",
+            "nodeType": "class",
+            "props": Object {
+              "article": Object {
+                "title": "article-6",
+              },
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": "6",
+            "nodeType": "class",
+            "props": Object {
+              "article": Object {
+                "title": "article-7",
+              },
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": "7",
+            "nodeType": "class",
+            "props": Object {
+              "article": Object {
+                "title": "article-8",
+              },
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": "8",
+            "nodeType": "class",
+            "props": Object {
+              "article": Object {
+                "title": "article-9",
+              },
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": "9",
+            "nodeType": "class",
+            "props": Object {
+              "article": Object {
+                "title": "article-10",
+              },
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+        ],
+        "type": "div",
+      },
+      "type": "div",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+      },
+    },
+  },
+}
+`;
